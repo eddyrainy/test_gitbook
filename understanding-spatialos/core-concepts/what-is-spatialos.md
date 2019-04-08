@@ -99,3 +99,24 @@ ReactDOM.render(<App />, window.document.getElementById('root'));
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+Here's the ordered/unordered list:
+
+* aaa
+* bbb
+* ccc
+
+1. aaa
+2. bbb
+3. ccc
+   1. 222
+   2. 222 
+   3. 333
+
+\(Note: the child lists shoud be marked as "a", "b", "c" for distinction\)
+
+![The caption is important!](../../.gitbook/assets/authority-loss-imminent-ack%20%281%29.png)
+
+{% embed url="https://www.youtube.com/watch?v=9lZNGU8bwGc&t=38s" %}
+
+
+
