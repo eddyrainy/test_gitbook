@@ -5,6 +5,7 @@
   * [Core concepts](understanding-spatialos/core-concepts/README.md)
     * [What is SpatialOS](understanding-spatialos/core-concepts/what-is-spatialos.md)
     * [World, entities, components](understanding-spatialos/core-concepts/world-entities-components.md)
+    * [Commands](understanding-spatialos/core-concepts/commands.md)
 
 ## Designing with SpatialOS
 
