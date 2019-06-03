@@ -1,6 +1,14 @@
-# Designing components
+# Great-great grandchild
 
-![diaggypoo](../.gitbook/assets/authority-loss-imminent-ack.png)
+{% page-ref page="./" %}
+
+{% page-ref page="./" %}
+
+{% page-ref page="./" %}
+
+{% hint style="info" %}
+kjhkhhkhjas
+{% endhint %}
 
 {% api-method method="get" host="" path="" %}
 {% api-method-summary %}
@@ -34,7 +42,19 @@
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% page-ref page="designing-components.md" %}
+{% tabs %}
+{% tab title="First Tab" %}
 
-test
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% file src="../../../../../../.gitbook/assets/authority-loss-imminent-ack.png" %}
+
+
+
+dabb dabba
 
