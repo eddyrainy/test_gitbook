@@ -8,13 +8,17 @@
 
 ## Designing with SpatialOS
 
+* [Untitled](designing-with-spatialos/untitled.md)
 * [Designing with SpatialOS](designing-with-spatialos/designing-with-spatialos.md)
 * [Designing entities](designing-with-spatialos/designing-entities.md)
 * [Designing components](designing-with-spatialos/designing-components.md)
+* [Another new page](designing-with-spatialos/another-new-page/README.md)
+  * [Baby](designing-with-spatialos/another-new-page/baby.md)
 
 ## Test group
 
 * [Infinite nesting starts here: Guide](test-group/test-page/README.md)
+  * [I am new page](test-group/test-page/i-am-new-page.md)
   * [Child: API](test-group/test-page/child/README.md)
     * [Grandchild: FAQ](test-group/test-page/child/grandchild/README.md)
       * [Great grandchild: changelog](test-group/test-page/child/grandchild/great-grandchild/README.md)
